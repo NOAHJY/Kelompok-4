@@ -28,7 +28,7 @@ class Saweria:
 
     # METHOD: non-return, tanpa parameter
     def tampilkan_menu(self) -> None:
-        print("\n=== MINI SAWERIA ===")
+        print("\n=== MINI SAWERIA KELOMPOK 4 ===")
         print("1. Kirim Donasi")
         print("2. Lihat Riwayat")
         print("3. Keluar")
